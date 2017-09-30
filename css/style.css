@@ -30,6 +30,10 @@ h2 {
   font-size: 2em;
 }
 
+footer {
+  clear: both;
+}
+
 footer p {
   float: right;
 }
