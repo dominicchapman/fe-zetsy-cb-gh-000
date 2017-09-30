@@ -33,6 +33,7 @@ h2 {
 #press-images {
   display: flex;
   justify-content: space-between;
+  border: 2px solid #CAC9CA;
 }
 
 footer p {
