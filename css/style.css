@@ -30,8 +30,8 @@ h2 {
   font-size: 2em;
 }
 
-#press img {
-  width: 25%;
+#press {
+  display: flex;
 }
 
 footer p {
