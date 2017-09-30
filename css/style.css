@@ -29,3 +29,7 @@ h2 {
   color: #777E79;
   font-size: 2em;
 }
+
+footer p {
+  float: right;
+}
