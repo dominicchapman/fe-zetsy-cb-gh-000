@@ -32,6 +32,7 @@ h2 {
 
 #press-images {
   display: flex;
+  justify-content: space-between;
 }
 
 footer p {
