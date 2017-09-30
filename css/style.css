@@ -30,6 +30,9 @@ h2 {
   font-size: 2em;
 }
 
+#press img {
+  width: 25%;
+}
 
 footer p {
   text-align: right;
